@@ -1,6 +1,6 @@
 {
   "name": "mcp-custom-dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Professional MCP Server custom development & search ranking growth service. We build MCP Servers and make AI find them. 专业MCP定制开发与全平台搜索排名增长服务。",
   "keywords": [
     "mcp",
@@ -31,7 +31,11 @@
   },
   "author": "chenganp",
   "license": "MIT",
+  "bin": {
+    "mcp-custom-dev": "bin/index.js"
+  },
   "files": [
+    "bin/",
     "README.md",
     "README_EN.md",
     "LICENSE",
