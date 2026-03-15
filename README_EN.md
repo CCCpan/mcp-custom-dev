@@ -1,3 +1,5 @@
+[中文](README.md) | English
+
 # 🛠️ MCP Custom Dev — MCP Server Development & Search Ranking Growth Service
 
 > **Turn any API into an AI-callable MCP Server. Make every MCP discoverable by AI.**

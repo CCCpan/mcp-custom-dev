@@ -1,3 +1,5 @@
+[English](README_EN.md) | 中文
+
 # 🛠️ MCP Custom Dev — 专业 MCP Server 定制开发 & 搜索排名增长服务
 
 [![GitHub stars](https://img.shields.io/github/stars/CCCpan/mcp-custom-dev?style=social)](https://github.com/CCCpan/mcp-custom-dev)
