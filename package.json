@@ -1,0 +1,42 @@
+{
+  "name": "mcp-custom-dev",
+  "version": "1.0.0",
+  "description": "Professional MCP Server custom development & search ranking growth service. We build MCP Servers and make AI find them. 专业MCP定制开发与全平台搜索排名增长服务。",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "mcp-development",
+    "mcp-custom",
+    "mcp-service",
+    "mcp-builder",
+    "model-context-protocol",
+    "ai-tools",
+    "mcp-development-service",
+    "mcp-server-builder",
+    "mcp-ranking",
+    "mcp-seo",
+    "mcp-growth",
+    "claude",
+    "cursor",
+    "openclaw",
+    "qclaw",
+    "ai-integration",
+    "mcp-publish",
+    "mcp-optimization"
+  ],
+  "homepage": "https://github.com/CCCpan/mcp-custom-dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CCCpan/mcp-custom-dev.git"
+  },
+  "author": "chenganp",
+  "license": "MIT",
+  "files": [
+    "README.md",
+    "README_EN.md",
+    "LICENSE",
+    "docs/",
+    "portfolio/",
+    "templates/"
+  ]
+}
