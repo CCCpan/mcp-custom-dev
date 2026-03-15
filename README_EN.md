@@ -1,4 +1,4 @@
-[中文](README.md) | English
+[中文](https://github.com/CCCpan/mcp-custom-dev/blob/main/README.md) | English
 
 # 🛠️ MCP Custom Dev — MCP Server Development & Search Ranking Growth Service
 
